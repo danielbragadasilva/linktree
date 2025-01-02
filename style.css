@@ -28,7 +28,7 @@ body {
   height: 100vh;
 }
 body * {
-  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: var(--text-color);
 }
 
